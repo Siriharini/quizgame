@@ -1,2 +1,3 @@
 # quizgame
 The quiz game is a dynamic, user-friendly application hosted on a web browser. It presents questions one at a time, allows users to select answers, tracks their score, and displays results at the end. The game leverages HTML for structure, CSS for styling, and JavaScript for interactivity and logic.
+Welcome to Quiz Game, a dynamic and interactive web-based quiz application built using HTML, CSS, and JavaScript. This project is designed to engage users with a fun and educational quiz experience, featuring multiple-choice questions, real-time score tracking, and a responsive design that works seamlessly across devices. Whether you're testing
